@@ -11,7 +11,7 @@ movie_review = "ebJcirbZbURq7M8Bg41ioBgMuAi96yDKFnUQLFh9V1c"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Devnet"
+cluster = "Localnet"
 wallet = "/home/sebatustra/my-solana-wallet/my-keypair.json"
 
 [scripts]
